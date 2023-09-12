@@ -59,3 +59,7 @@ Generate tranlation files:
 pylupdate5 -noobsolete *.py ui/* -ts i18n/Infra3d_de.ts
 lrelease-qt5 i18n/Infra3d_de.ts -qm i18n/Infra3d_de.qm
 ```
+
+## License
+
+This project is licensed under GNU General Public License, version 2. See [LICENSE](./LICENSE).
