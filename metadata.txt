@@ -8,8 +8,8 @@ email=hka@sourcepole.ch
 
 about=This plugin is an integration of the Infra3D application with QGIS
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/sourcepole/qgis-infra3d-plugin/issues
+repository=https://github.com/sourcepole/qgis-infra3d-plugin
 # End of mandatory metadata
 
 # Recommended items:
