@@ -1,5 +1,17 @@
 # Infra3D plugin
 
+## Usage
+
+The Infra3D plugin is a connection between Infra3DRoad (https://www.inovitas.ch/en/products/street/infra3droad) and QGIS. Infra3DRoad runs in a browser and the plugin allows to set and move the camera position in QGIS as well as to show the current camera position and direction in QGIS. The plugin has four buttons:
+
+* __Enable 3DRoad__ opens the Infra3DRoad application in the browser and etablishes the connection between QGIS and the browser application.
+
+* __Settings__ opens the settings dialog. Here it is possible to enter the password for the Infra3D account and to set a database table for the road layer (used for snapping).
+
+* __Set Infra3DRoad position__ activates the tool to set a road position in QGIS.
+
+* __Zoom to marker__ sets the map extent to the position where the marker is.
+
 ## Architecture
 
 TDB
