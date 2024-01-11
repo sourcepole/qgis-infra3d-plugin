@@ -21,7 +21,7 @@ hasProcessingProvider=no
 # Tags are comma separated with spaces allowed
 tags=python
 
-homepage=http://sourcepole.ch
+homepage=https://github.com/sourcepole/qgis-infra3d-plugin/blob/main/README.md
 category=Web
 icon=infra3d.png
 # experimental flag
